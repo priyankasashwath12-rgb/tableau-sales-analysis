@@ -16,3 +16,4 @@ Due to tool limitations, the final dashboard is shared as a PDF.
 ## Files Included
 - Sales Dashboard (PDF)
 - Sales ScreenShots
+- Sales_Data.xlsx (dataset used for analysis)
